@@ -14,7 +14,6 @@ This project performs exploratory analysis and preprocessing of historical stock
   - Data normalization
   - Sequence creation for supervised learning
 
-❌ **Note**: This version does *not* include training or prediction using LSTM models.
 
 ## 🔍 Key Features
 
